@@ -9,79 +9,11 @@ redirect_from:
 
 I'm a M.S. student in Department of Electrical and Electronic Engineering at Dongguk University under supervision of [Prof. Woonghee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [Wireless-Oriented Optimization for Next Generation Laboratory (WoongLab)](https://sites.google.com/view/woonglab/home).
 
-## Interest
-
-<!-- 스타일: 이미지 확대용 모달 -->
-<style>
-  .modal {
-    display: none;
-    position: fixed;
-    z-index: 100;
-    left: 0; top: 0;
-    width: 100%; height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-  }
-
-  .modal-content {
-    display: block;
-    margin: 5% auto;
-    max-width: 80%;
-    max-height: 80%;
-  }
-
-  .modal:target {
-    display: block;
-  }
-</style>
-<p><b>My research interests include</b></p>
-
-<!-- 가로 정렬: 텍스트 + 이미지 -->
-<div style="display: flex; gap: 2em; justify-content: center; text-align: center; margin-top: 1em;">
-
-  <!-- 항목 1 -->
-  <div>
-    <div style="font-size: 0.95em; font-weight: bold;">Signal Processing</div>
-    <a href="#img1">
-      <img src="/images/signal.png" alt="Signal Processing"
-           style="height: 120px; object-fit: contain; margin-top: 0.5em; cursor: zoom-in;">
-    </a>
-  </div>
-
-  <!-- 항목 2 -->
-  <div>
-    <div style="font-size: 0.95em; font-weight: bold;">Machine Learning</div>
-    <a href="#img2">
-      <img src="/images/ml.png" alt="Machine Learning"
-           style="height: 120px; object-fit: contain; margin-top: 0.5em; cursor: zoom-in;">
-    </a>
-  </div>
-
-  <!-- 항목 3 -->
-  <div>
-    <div style="font-size: 0.95em; font-weight: bold;">Wireless Communication</div>
-    <a href="#img3">
-      <img src="/images/wireless.png" alt="Wireless Communication"
-           style="height: 120px; object-fit: contain; margin-top: 0.5em; cursor: zoom-in;">
-    </a>
-  </div>
-</div>
-
-<!-- 모달 팝업 (숨겨진 이미지 확대 영역) -->
-<div id="img1" class="modal" onclick="location.href='#';">
-  <img class="modal-content" src="/images/signal.png" alt="Signal Processing (zoom)">
-</div>
-
-<div id="img2" class="modal" onclick="location.href='#';">
-  <img class="modal-content" src="/images/ml.png" alt="Machine Learning (zoom)">
-</div>
-
-<div id="img3" class="modal" onclick="location.href='#';">
-  <img class="modal-content" src="/images/wireless.png" alt="Wireless Communication (zoom)">
-</div>
+## Research Interest
 
 <p><span style="font-size: 0.95em;"><b>My research interests include</b></span></p>
 
-<ul style="margin-top: 0.3em; margin-bottom: 0.3em;">
+<ul style="margin-top: 0.3em; margin-bottom: 0.3em">
   <li><span style="font-size: 0.95em;">Signal Processing</span></li>
   <li><span style="font-size: 0.95em;">Machine Learning</span></li>
   <li><span style="font-size: 0.95em;">Wireless Communication</span></li>
@@ -134,7 +66,7 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
 
 <ul>
   <li>
-    <span style="font-size: 0.95em;"><b>National Excellence Scholarship (이공계 국가우수장학금)</b></span><br>
+    <span style="font-size: 0.95em;"><b>National Science & Technology Scholarship</b></span><br>
     <span style="font-size: 0.85em;">Ministry of Science and ICT, Korea, 2023-2024</span><br>
   </li>
 </ul>
@@ -189,8 +121,12 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
 
 ### International Conference
 
+<p style="font-size: 0.9em; color: gray;">System loading... Please wait :)</p>
 ### Domestic Journal
-
+<p style="font-size: 0.9em; color: gray;">System loading... Please wait :)</p>
 ### Domestic Conference
+<p style="font-size: 0.9em; color: gray;">System loading... Please wait :)</p>
 
 ## Teaching Assistant Experience
+
+<p style="font-size: 0.9em; color: gray;">System loading... Please wait :)</p>

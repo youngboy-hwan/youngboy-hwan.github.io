@@ -22,7 +22,7 @@ repository: "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpeg"
   name: "Dong Hwan Kim"
   pronouns: # example: "she/her"
   bio: "M.S. Student at Dongguk University, Korea, EE"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia: # URL
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.co.kr/citations?user=EklrG7oAAAAJ&hl=ko"
   impactstory: # URL
   orcid: #"http://orcid.org/yourorcidurl"
   semantic: # URL
