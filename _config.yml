@@ -13,7 +13,7 @@ title: "Dong Hwan Kim"
 title_separator: "-"
 name: &name "Dong Hwan Kim"
 description: &description "M.S. Student at Dongguk University, Korea, EE"
-url: https://youngboy-hwan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url: https://youngboy-hwan.github.io #the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns: # example: "she/her"
   bio: "M.S. Student at Dongguk University, Korea, EE"
   location: "Seoul, Korea"
-  employer: "WOONGLAB, Dongguk University"
+  employer: "WoongLAB, Dongguk University"
   uri: # URL
   email: "2025120084@dgu.ac.kr"
 
