@@ -34,18 +34,33 @@ My research interest include
 
 <ul>
   <li>
-    <span style="font-size: 1.1em;"><b>An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems</b></span><br>
-    <span style="font-size: 0.95em;">Jung-Hwan Kim*, <b>Dong-Hwan Kim*, Mustafa Ozger, <b>Woong-Hee Lee</b></span><br>
-    <span style="font-size: 0.9em;"><i>(* equal contribution)</i></span><br>
-    <span style="color: darkred; font-weight: bold;">IEEE Access</span> 2024
+    <span style="font-size: 0.95em;"><b>An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems</b></span><br>
+    <span style="font-size: 0.85em;">Jung-Hwan Kim*, <b>Dong-Hwan Kim*</b>, Mustafa Ozger, <b>Woong-Hee Lee</b></span><br>
+    <span style="font-size: 0.85em;"><i>(* equal contribution)</i></span><br>
+    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Access</span> 2024
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>Level Test-Inspired SNR Estimation-Based Dataset Clustering Algorithms for Learnability Maximization in Neural Network Design</b></span><br>
+    <span style="font-size: 0.85em;"> <b>Dong-Hwan Kim*</b>, Jung-Hwan Kim*, Mustafa Ozger, <b>Woong-Hee Lee</b></span><br>
+    <span style="font-size: 0.85em;"><i>(* equal contribution)</i></span><br>
+    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Internet of Things Journal</span>, Under Review (2nd round)
   </li>
 </ul>
 
 #### International Conference
 
+d
+
 #### Domestic Journl
 
+d
+
 #### Domestic Conference
+
+d
 
 ## Honors and Awards
 
