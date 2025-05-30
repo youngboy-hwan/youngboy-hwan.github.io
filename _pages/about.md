@@ -30,37 +30,41 @@ My research interest include
 
 ## Publications
 
-#### International Journal
+### International Journal
 
 <ul>
   <li>
     <span style="font-size: 0.95em;"><b>An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems</b></span><br>
     <span style="font-size: 0.85em;">Jung-Hwan Kim*, <b>Dong-Hwan Kim*</b>, Mustafa Ozger, <b>Woong-Hee Lee</b></span><br>
     <span style="font-size: 0.85em;"><i>(* equal contribution)</i></span><br>
-    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Access</span> 2024
+    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Access</span> <span style="font-size: 0.85em;">2024 </span>
   </li>
 </ul>
 
 <ul>
   <li>
     <span style="font-size: 0.95em;"><b>Level Test-Inspired SNR Estimation-Based Dataset Clustering Algorithms for Learnability Maximization in Neural Network Design</b></span><br>
-    <span style="font-size: 0.85em;"> <b>Dong-Hwan Kim*</b>, Jung-Hwan Kim*, Mustafa Ozger, <b>Woong-Hee Lee</b></span><br>
+    <span style="font-size: 0.85em;"> <b>Dong-Hwan Kim*</b>, Jung-Hwan Kim*, Mustafa Ozger, Emil Björonson, <b>Woong-Hee Lee</b></span><br>
     <span style="font-size: 0.85em;"><i>(* equal contribution)</i></span><br>
-    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Internet of Things Journal</span>, Under Review (2nd round)
+    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Internet of Things Journal</span>
+    <span style="font-size: 0.85em">Under Review (2nd round)</span>
   </li>
 </ul>
 
-#### International Conference
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>IHTS: A Denoising Method Based on Iterative Reshaping for Matrix-Structured Wireless Signals</b></span><br>
+    <span style="font-size: 0.85em;">Jung-Hwan Kim*, <b>Dong-Hwan Kim</b>, Mustafa Ozger, Jeong-Sik Choi, <b>Woong-Hee Lee</b></span><br>
+    <span style="font-size: 0.85em;color: darkred; font-weight: bold;">IEEE Internet of Things Journal</span> 
+    <span style="font-size: 0.85em">Under Review (2nd round)</span>
+  </li>
+</ul>
 
-d
+### International Conference
 
-#### Domestic Journl
+### Domestic Journl
 
-d
-
-#### Domestic Conference
-
-d
+### Domestic Conference
 
 ## Honors and Awards
 
