@@ -19,19 +19,19 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
   <!-- 항목 1 -->
   <div>
     <div style="font-size: 0.95em; font-weight: bold;">Signal Processing</div>
-    <img src="/images/signal.png" alt="Signal Processing" style="width: 150px; margin-top: 0.5em;">
+    <img src="/images/signal.png" alt="Signal Processing" style="width: 120px;margin-top: 0.5em;">
   </div>
 
   <!-- 항목 2 -->
   <div>
     <div style="font-size: 0.95em; font-weight: bold;">Machine Learning</div>
-    <img src="/images/ml.png" alt="Machine Learning" style="width: 150px; margin-top: 0.5em;">
+    <img src="/images/ml.png" alt="Machine Learning" style="width: 120px; margin-top: 0.5em;">
   </div>
 
   <!-- 항목 3 -->
   <div>
     <div style="font-size: 0.95em; font-weight: bold;">Wireless Communication</div>
-    <img src="/images/wireless.png" alt="Wireless Communication" style="width: 150px; margin-top: 0.5em;">
+    <img src="/images/wireless.png" alt="Wireless Communication" style="width: 120px; margin-top: 0.5em;">
   </div>
 </div>
 
