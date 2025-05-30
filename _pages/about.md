@@ -11,28 +11,72 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
 
 ## Interest
 
-<h2>Research Interest</h2>
+<!-- 스타일: 이미지 확대용 모달 -->
+<style>
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 100;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  .modal-content {
+    display: block;
+    margin: 5% auto;
+    max-width: 80%;
+    max-height: 80%;
+  }
+
+  .modal:target {
+    display: block;
+  }
+</style>
 <p><b>My research interests include</b></p>
 
-<!-- 항목 + 이미지: 가로 배치 -->
+<!-- 가로 정렬: 텍스트 + 이미지 -->
 <div style="display: flex; gap: 2em; justify-content: center; text-align: center; margin-top: 1em;">
+
   <!-- 항목 1 -->
   <div>
     <div style="font-size: 0.95em; font-weight: bold;">Signal Processing</div>
-    <img src="/images/signal.png" alt="Signal Processing" style="width: 120px;margin-top: 0.5em;">
+    <a href="#img1">
+      <img src="/images/signal.png" alt="Signal Processing"
+           style="height: 120px; object-fit: contain; margin-top: 0.5em; cursor: zoom-in;">
+    </a>
   </div>
 
   <!-- 항목 2 -->
   <div>
     <div style="font-size: 0.95em; font-weight: bold;">Machine Learning</div>
-    <img src="/images/ml.png" alt="Machine Learning" style="width: 120px; margin-top: 0.5em;">
+    <a href="#img2">
+      <img src="/images/ml.png" alt="Machine Learning"
+           style="height: 120px; object-fit: contain; margin-top: 0.5em; cursor: zoom-in;">
+    </a>
   </div>
 
   <!-- 항목 3 -->
   <div>
     <div style="font-size: 0.95em; font-weight: bold;">Wireless Communication</div>
-    <img src="/images/wireless.png" alt="Wireless Communication" style="width: 120px; margin-top: 0.5em;">
+    <a href="#img3">
+      <img src="/images/wireless.png" alt="Wireless Communication"
+           style="height: 120px; object-fit: contain; margin-top: 0.5em; cursor: zoom-in;">
+    </a>
   </div>
+</div>
+
+<!-- 모달 팝업 (숨겨진 이미지 확대 영역) -->
+<div id="img1" class="modal" onclick="location.href='#';">
+  <img class="modal-content" src="/images/signal.png" alt="Signal Processing (zoom)">
+</div>
+
+<div id="img2" class="modal" onclick="location.href='#';">
+  <img class="modal-content" src="/images/ml.png" alt="Machine Learning (zoom)">
+</div>
+
+<div id="img3" class="modal" onclick="location.href='#';">
+  <img class="modal-content" src="/images/wireless.png" alt="Wireless Communication (zoom)">
 </div>
 
 <p><span style="font-size: 0.95em;"><b>My research interests include</b></span></p>
