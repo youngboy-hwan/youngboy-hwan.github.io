@@ -9,7 +9,31 @@ redirect_from:
 
 I'm a M.S. student in Department of Electrical and Electronic Engineering at Dongguk University under supervision of [Prof. Woonghee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [Wireless-Oriented Optimization for Next Generation Laboratory (WoongLab)](https://sites.google.com/view/woonglab/home).
 
-## Research Interest
+## Interest
+
+<h2>Research Interest</h2>
+<p><b>My research interests include</b></p>
+
+<!-- 항목 + 이미지: 가로 배치 -->
+<div style="display: flex; gap: 2em; justify-content: center; text-align: center; margin-top: 1em;">
+  <!-- 항목 1 -->
+  <div>
+    <div style="font-size: 0.95em; font-weight: bold;">Signal Processing</div>
+    <img src="/images/signal.png" alt="Signal Processing" style="width: 150px; margin-top: 0.5em;">
+  </div>
+
+  <!-- 항목 2 -->
+  <div>
+    <div style="font-size: 0.95em; font-weight: bold;">Machine Learning</div>
+    <img src="/images/ml.png" alt="Machine Learning" style="width: 150px; margin-top: 0.5em;">
+  </div>
+
+  <!-- 항목 3 -->
+  <div>
+    <div style="font-size: 0.95em; font-weight: bold;">Wireless Communication</div>
+    <img src="/images/wireless.png" alt="Wireless Communication" style="width: 150px; margin-top: 0.5em;">
+  </div>
+</div>
 
 <p><span style="font-size: 0.95em;"><b>My research interests include</b></span></p>
 
@@ -35,6 +59,55 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
     <span style="font-size: 0.85em;">Korea University, Sejong, Korea</span><br>
     <span style="font-size: 0.85em;"><i>Mar. 2019 - Feb. 2025</i></span><br>
     <span style="font-size: 0.85em;">GPA: 4.26/4.5 (Major GPA: 4.47/4.5)</span><br>
+  </li>
+</ul>
+
+## Honors and Awards
+
+### Honors
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>Top Graduate Award</b></span><br>
+    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2025</span><br>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>Dean's List</b></span><br>
+    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2024</span><br>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>Semester High Honors (9 semesters)</b></span><br>
+    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2019, 2022-2024</span><br>
+    <span style="font-size: 0.85em;"><i>*Final semester: GPA 4.5/4.5 (not awarded due to minimum credit policy)</i></span><br>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>National Excellence Scholarship (이공계 국가우수장학금)</b></span><br>
+    <span style="font-size: 0.85em;">Ministry of Science and ICT, Korea, 2023-2024</span><br>
+  </li>
+</ul>
+
+### Awards
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>장려상</b></span><br>
+    <span style="font-size: 0.85em;">한국통신학회 하계종합학술발표회 학부논문경진대회, 2024</span><br>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <span style="font-size: 0.95em;"><b>우수논문상</b></span><br>
+    <span style="font-size: 0.85em;">제4회 한국 인공지능 학술대회 학부논문경진대회, 2023</span><br>
   </li>
 </ul>
 
@@ -76,51 +149,4 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
 
 ### Domestic Conference
 
-## Honors and Awards
-
-### Honors
-
-<ul>
-  <li>
-    <span style="font-size: 0.95em;"><b>Top Graduate Award</b></span><br>
-    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2025</span><br>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <span style="font-size: 0.95em;"><b>Dean's List</b></span><br>
-    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2024</span><br>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <span style="font-size: 0.95em;"><b>Semester High Honors (9 semesters)</b></span><br>
-    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2019, 2022-2024</span><br>
-    <span style="font-size: 0.85em;"><i>*Final semester: GPA 4.5/4.5 (not awarded due to minimum credit policy)</i></span><br>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <span style="font-size: 0.95em;"><b>National Excellence Scholarship (이공계 국가우수 장학금)</b></span><br>
-    <span style="font-size: 0.85em;">Ministry of Science and ICT, Korea, 2023-2024</span><br>
-  </li>
-</ul>
-
-### Awards
-
-<ul>
-  <li>
-    <span style="font-size: 0.95em;"><b>장려상</b></span><br>
-    <span style="font-size: 0.85em;">한국통신학회 하계종합학술발표회 학부논문경진대회, 2024</span><br>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <span style="font-size: 0.95em;"><b>우수논문상</b></span><br>
-    <span style="font-size: 0.85em;">제4회 한국 인공지능 학술대회 학부논문경진대회, 2023</span><br>
-  </li>
-</ul>
+## Teaching Assistant Experience
