@@ -52,13 +52,13 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
 <ul>
   <li>
     <span style="font-size: 0.95em;"><b>Dean's List</b></span><br>
-    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2024</span><br>
+    <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2023</span><br>
   </li>
 </ul>
 
 <ul>
   <li>
-    <span style="font-size: 0.95em;"><b>Semester High Honors (9 semesters)</b></span><br>
+    <span style="font-size: 0.95em;"><b>Semester High Honors (7 semesters)</b></span><br>
     <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2019, 2022-2024</span><br>
     <span style="font-size: 0.85em;"><i>*Final semester: GPA 4.5/4.5 (not awarded due to minimum credit policy)</i></span><br>
   </li>
