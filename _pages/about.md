@@ -44,7 +44,7 @@ I'm a M.S. student in Department of Electrical and Electronic Engineering at Don
 
 <ul>
   <li>
-    <span style="font-size: 0.95em;"><b>Top Graduate Award</b></span><br>
+    <span style="font-size: 0.95em;"><b>Great Honors</b></span><br>
     <span style="font-size: 0.85em;">Korea University, Sejong, Korea, 2025</span><br>
   </li>
 </ul>
