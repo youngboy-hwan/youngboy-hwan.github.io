@@ -7,17 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a M.S. student in Department of Electrical and Electronic Engineering at Dongguk University under supervision of [Prof. Woonghee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [Wireless-Oriented Optimization for Next Generation Laboratory (WoongLab)](https://sites.google.com/view/woonglab/home).
+I'm a M.S. student in Department of Electrical and Electronic Engineering at Dongguk University under supervision of [Prof. Woonghee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [Wireless-Oriented Optimization for Next Generation Laboratory (WoongLab)](https://sites.google.com/view/woonglab/home). My research focused on Signal processing in wireless communication.
 
-## Research Interest
-
-<p><span style="font-size: 0.95em;"><b>My research interests include</b></span></p>
-
-<ul style="margin-top: 0.3em; margin-bottom: 0.3em">
-  <li><span style="font-size: 0.95em;">Signal Processing</span></li>
-  <li><span style="font-size: 0.95em;">Machine Learning</span></li>
-  <li><span style="font-size: 0.95em;">Wireless Communication</span></li>
-</ul>
+I'm interested in Signal processing, Machine learning, and Information thoery.
 
 ## Education
 
