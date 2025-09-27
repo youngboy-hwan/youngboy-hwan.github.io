@@ -108,12 +108,16 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-li > code {
-  background-color: #00369f;   // 짙은 파란색 (NeurIPS 스타일)
+li > code,
+p > code,
+code.language-plaintext.highlighter-rouge {
+  background-color: #00369f;
   color: white;
   padding: 0px 0px;
   border-radius: 3px;
   font-size: 0.7em;
   margin-right: 6px;
   font-weight: 600;
+  display: inline-block;
+  vertical-align: middle;
 }
