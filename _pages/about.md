@@ -23,8 +23,8 @@ My research interest include signal processing and machine learning in wireless 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by IEEE IOTJ
-- *2025.03*: &nbsp;🎉🎉 I join WoongLab as a M.S. student at Dongguk University.
+- *2025.09*: &nbsp;🎉 One paper is accepted by IEEE IOTJ
+- *2025.03*: &nbsp; I join WoongLab as a M.S. student at Dongguk University.
 
 # 📝 Publications 
 
