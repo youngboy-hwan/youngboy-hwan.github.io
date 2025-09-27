@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -24,7 +24,7 @@ My research interest include signal processing and machine learning in wireless 
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE IOTJ
-- *2025.03*: &nbsp; I join WoongLab as a M.S. student at Dongguk University.
+- *2025.03*: &nbsp;I join WoongLab as a M.S. student at Dongguk University.
 
 # 📝 Publications 
 
