@@ -32,16 +32,15 @@ My research interest include signal processing and machine learning in wireless 
 
 ``IEEE Access`` [An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems](), Jung-Hwan Kim*, **Dong-Hwan Kim**\*, Mustafa Ozger, Woong-Hee Lee
 
-### 🤦‍♂️ Under Review
+### 🤦‍♂️ Submitted / Under Review
 
 `IEEE IoTJ` [IHTS: A Denoising Method Based on Iterative Reshaping for Matrix-Structured Wireless Signals](), Jung-Hwan Kim, **Dong-Hwan Kim**, Mustafa Ozger, Jeong-Sik Choi, Woong-Hee Lee (2nd round)
 
 `IEEE IoTJ` [Dual-Functional Signal Design via Golomb Ruler in Integrated Sensing and Communication Systems](), Jung-Hwan Kim, **Dong-Hwan Kim**, Seung-Yeon Hur, Woong-Hee Lee (1st round)
 
-`IEEE CL` [Blind](), **Dong-Hwam Kim**, et. al (1st round)
+`IEEE CL` [Blind](), **Dong-Hwam Kim**, et. al (submitted)
 
-
-`System Loading...` [TBD]()
+`System Loading...` [Blind]() (submitted)
 
 # 🎖 Honors and Awards
 
