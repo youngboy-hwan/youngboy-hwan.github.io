@@ -48,7 +48,7 @@ My research interest include signal processing and machine learning in wireless 
 - **Great Honors**, Korea University, Sejong, South Korea (*2025*)
 - **Dean's List**, Korea University, Sejong, South Korea (*2023*)
 - **Semester High Honors**, Korea University, Sejong, South Korea (*2019; 2022-2024 (7 semesters total)*)
-- **National Science & Technology Scholarship**, Ministry of Science and ICT, South Korea (*2023-2024*)
+- **National Science \& Technology Scholarship**, Ministry of Science and ICT, South Korea (*2023-2024*)
 
 ### Awards
 - **장려상**, 한국통신학회 하계종합학술발표회 학부논문경진대회 (*2024*)
