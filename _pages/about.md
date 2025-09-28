@@ -23,33 +23,36 @@ My research interest include signal processing and machine learning in wireless 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 One paper is accepted by IEEE IOTJ
+- *2025.09*: &nbsp;🎉 One paper is accepted by IEEE IoTJ
 - *2025.03*: &nbsp;I join WoongLab as a M.S. student at Dongguk University.
 
 # 📝 Publications 
 
- ``IEEE IoTJ`` [Level Test-Inspired SNR Estimation-Based Dataset Clustering Algorithms for Learnability Maximization in Neural Network Design](), **Dong-Hwam Kim***, Jung-Hwam Kim*, Mustafa Ozger, Emil Björonson, Woong-Hee Lee
+ ``IEEE IoTJ`` [Level Test-Inspired SNR Estimation-Based Dataset Clustering Algorithms for Learnability Maximization in Neural Network Design](), **Dong-Hwam Kim**\*, Jung-Hwam Kim\*, Mustafa Ozger*, Emil Björonson, Woong-Hee Lee
 
-``IEEE Access`` [An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems](), Jung-Hwan Kim*, **Dong-Hwan Kim***, Mustafa Ozger, Woong-Hee Lee
+``IEEE Access`` [An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems](), Jung-Hwan Kim*, **Dong-Hwan Kim**\*, Mustafa Ozger, Woong-Hee Lee
 
 ### 🤦‍♂️ Under Review
 
-`IEEE CL` [Under Review](), **Dong-Hwam Kim***, et. al (1st round)
-
 `IEEE IoTJ` [IHTS: A Denoising Method Based on Iterative Reshaping for Matrix-Structured Wireless Signals](), Jung-Hwan Kim, **Dong-Hwan Kim**, Mustafa Ozger, Jeong-Sik Choi, Woong-Hee Lee (2nd round)
 
+`IEEE CL` [Under Review](), **Dong-Hwam Kim**, et. al (1st round)
+
+`System Loading...` [TBD]()
+
+`System Loading...` [TBD]()
 
 # 🎖 Honors and Awards
 
 ### Honors
-- *2025.02* **Great Honors**, Korea University, Sejong, South Korea.
-- *2023* **Dean's List**, Korea University, Sejong, South Korea.
-- *2019; 2022-2024 (7 semesters total)* **Semester High Honors**, Korea University, Sejong, South Korea.
-- *2023-2024* **National Science & Technology Scholarship**, Ministry of Science and ICT, South Korea.
+- **Great Honors**, Korea University, Sejong, South Korea (*2025*)
+- **Dean's List**, Korea University, Sejong, South Korea (*2023*)
+- **Semester High Honors**, Korea University, Sejong, South Korea (*2019; 2022-2024 (7 semesters total)*)
+- **National Science & Technology Scholarship**, Ministry of Science and ICT, South Korea (*2023-2024*)
 
 ### Awards
-- *2024* **장려상**, 한국통신학회 하계종합학술발표회 학부논문경진대회
-- *2023* **우수논문상**, 제4회 한국 인공지능 학술대회 학부논문경진대회
+- **장려상**, 한국통신학회 하계종합학술발표회 학부논문경진대회 (*2024*)
+- **우수논문상**, 제4회 한국 인공지능 학술대회 학부논문경진대회 (*2023*)
 
 # 📖 Educations
 - *2025.03 - Present*, M.S. in Department of Electrical and Electronic Engineering, Doongguk University, Seoul, South Korea.
