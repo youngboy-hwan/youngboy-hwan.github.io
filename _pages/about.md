@@ -28,7 +28,7 @@ My research interest include signal processing and machine learning in wireless 
 
 # 📝 Publications 
 
- ``IEEE IoTJ`` [Level Test-Inspired SNR Estimation-Based Dataset Clustering Algorithms for Learnability Maximization in Neural Network Design](), **Dong-Hwam Kim**\*, Jung-Hwam Kim\*, Mustafa Ozger, Emil Björonson, Woong-Hee Lee
+ ``IEEE IoTJ`` [Level Test-Inspired SNR Estimation-Based Dataset Clustering Algorithms for Learnability Maximization in Neural Network Design](), **Dong-Hwan Kim**\*, Jung-Hwan Kim\*, Mustafa Ozger, Emil Björonson, Woong-Hee Lee
 
 ``IEEE Access`` [An NN-Aided Near-and-Far Field Classifier via Channel Hankelization in XL-MIMO Systems](), Jung-Hwan Kim*, **Dong-Hwan Kim**\*, Mustafa Ozger, Woong-Hee Lee
 
@@ -48,7 +48,7 @@ My research interest include signal processing and machine learning in wireless 
 - **Great Honors**, Korea University, Sejong, South Korea (*2025*)
 - **Dean's List**, Korea University, Sejong, South Korea (*2023*)
 - **Semester High Honors**, Korea University, Sejong, South Korea (*2019; 2022-2024 (7 semesters total)*)
-- **National Science \& Technology Scholarship**, Ministry of Science and ICT, South Korea (*2023-2024*)
+- **National Science and Technology Scholarship**, Ministry of Science and ICT, South Korea (*2023-2024*)
 
 ### Awards
 - **장려상**, 한국통신학회 하계종합학술발표회 학부논문경진대회 (*2024*)
