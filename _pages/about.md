@@ -38,7 +38,7 @@ My research interest include signal processing and machine learning in wireless 
 
 `IEEE IoTJ` [Dual-Functional Signal Design via Golomb Ruler in Integrated Sensing and Communication Systems](), Jung-Hwan Kim, **Dong-Hwan Kim**, Seung-Yeon Hur, Woong-Hee Lee (1st round)
 
-`IEEE CL` [Blind](), **Dong-Hwam Kim**, et. al (1st round)
+`IEEE CL` [Blind](), **Dong-Hwan Kim**, et. al (1st round)
 
 `System Loading...` [Blind]() (1st round)
 
