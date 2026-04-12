@@ -36,11 +36,13 @@ My research interest include signal processing and machine learning in wireless 
 
 `IEEE IoTJ` [IHTS: A Denoising Method Based on Iterative Reshaping for Matrix-Structured Wireless Signals](), Jung-Hwan Kim, **Dong-Hwan Kim**, Mustafa Ozger, Jeong-Sik Choi, Woong-Hee Lee (2nd round)
 
-`IEEE IoTJ` [Dual-Functional Signal Design via Golomb Ruler in Integrated Sensing and Communication Systems](), Jung-Hwan Kim, **Dong-Hwan Kim**, Seung-Yeon Hur, Woong-Hee Lee (1st round)
+`IEEE IoTJ` [Dual-Functional Signal Design via Golomb Ruler in Integrated Sensing and Communication Systems](), Jung-Hwan Kim, **Dong-Hwan Kim**, Seung-Yeon Hur, Woong-Hee Lee (2nd round)
 
-`IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, et. al (1st round)
+`IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, et. al (2nd round)
 
-`System Loading...` [Blind]() (1st round)
+`IEEE TSP` [Prime-Sinc Relation With Universal Combinatorial Product]() Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (2nd round)
+
+`IEEE TVT` [RoUlet Transform With Roots of Unity]() Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (1st round)
 
 # 🎖 Honors and Awards
 
