@@ -40,9 +40,9 @@ My research interest include signal processing and machine learning in wireless 
 
 `IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, et. al (2nd round)
 
-`IEEE TSP` [Prime-Sinc Relation With Universal Combinatorial Product]() Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (2nd round)
+`IEEE TSP` [Prime-Sinc Relation With Universal Combinatorial Product](), Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (2nd round)
 
-`IEEE TVT` [RoUlet Transform With Roots of Unity]() Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (1st round)
+`IEEE TVT` [RoUlet Transform With Roots of Unity](), Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (1st round)
 
 # 🎖 Honors and Awards
 
@@ -70,4 +70,9 @@ My research interest include signal processing and machine learning in wireless 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. 
+- 
+- git add .
+- git commit -m "TEXT" 
+- git push origin main
+- -->
