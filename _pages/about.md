@@ -19,12 +19,14 @@ redirect_from:
 
 Hello :), I'm a M.S. student in Department of Electrical and Electronic Engineering at Doonguk University under supervision of [Prof. Woong-Hee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [WoongLab](https://sites.google.com/view/woonglab/home).
 
-My research interest include signal processing and machine learning in wireless communications, with additional academic interests in information theory.
-
+<!-->My research interests include signal processing and optimization for wireless communications, with a focus on sparsity-aware algorithms.-->
+My research interests lie in signal processing for wireless communication systems, with a focus on sparsity-aware algorithms and optimization.
+I am especially interested in understanding the fundamental limits of signal processing algorithms, particularly in compressed sensing and quantization.
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 Selected as a recipient of the National Science and Technology Scholarship (M.S.)
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE IoTJ
-- *2025.03*: &nbsp;I join WoongLab as a M.S. student at Dongguk University.
+- *2025.03*: &nbsp;Joined WoongLab as an M.S. student at Dongguk University.
 
 # 📝 Publications 
 
