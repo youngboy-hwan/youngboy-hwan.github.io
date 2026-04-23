@@ -24,6 +24,7 @@ My research interests lie in signal processing for wireless communication system
 I am especially interested in understanding the fundamental limits of signal processing algorithms, particularly in compressed sensing and quantization.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 One paper is accepted by IEEE CL
 - *2026.03*: &nbsp;🎉 Selected as a recipient of the National Science and Technology Scholarship (M.S.)
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE IoTJ
 - *2025.03*: &nbsp;Joined WoongLab as an M.S. student at Dongguk University.
@@ -36,11 +37,11 @@ I am especially interested in understanding the fundamental limits of signal pro
 
 ### 🤦‍♂️ Submitted / Under Review
 
+`IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, et. al (Accepted!)
+
 `IEEE IoTJ` [IHTS: A Denoising Method Based on Iterative Reshaping for Matrix-Structured Wireless Signals](), Jung-Hwan Kim, **Dong-Hwan Kim**, Mustafa Ozger, Jeong-Sik Choi, Woong-Hee Lee (2nd round)
 
 `IEEE IoTJ` [Dual-Functional Signal Design via Golomb Ruler in Integrated Sensing and Communication Systems](), Jung-Hwan Kim, **Dong-Hwan Kim**, Seung-Yeon Hur, Woong-Hee Lee (2nd round)
-
-`IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, et. al (2nd round)
 
 `IEEE TSP` [Prime-Sinc Relation With Universal Combinatorial Product](), Yunwoo Kim, **Dong-Hwan Kim**, Jung-Hwan Kim, Namyoon Lee, and Woong-Hee Lee (2nd round)
 
