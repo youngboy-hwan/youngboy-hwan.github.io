@@ -37,7 +37,7 @@ I am especially interested in understanding the fundamental limits of signal pro
 
 ### 🤦‍♂️ Submitted / Under Review
 
-`IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, et. al (Accepted!)
+`IEEE CL` [Neural Network-Assisted NLoS Channel Identification in Near-Field Environments: A Linear Fractionalization Approach](), **Dong-Hwan Kim**, Jung-Hwan Kim, Hye-Jin Cho, Jong-Ho Lee, and Woong-Hee Lee (Accepted!)
 
 `IEEE IoTJ` [IHTS: A Denoising Method Based on Iterative Reshaping for Matrix-Structured Wireless Signals](), Jung-Hwan Kim, **Dong-Hwan Kim**, Mustafa Ozger, Jeong-Sik Choi, Woong-Hee Lee (2nd round)
 
