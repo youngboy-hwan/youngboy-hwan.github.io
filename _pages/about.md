@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello :), I'm a M.S. student in Department of Electrical and Electronic Engineering at Doonguk University under supervision of [Prof. Woong-Hee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [WoongLab](https://sites.google.com/view/woonglab/home).
+Hello :), I'm a M.S. student in Department of Electrical and Electronic Engineering at Donguk University under supervision of [Prof. Woong-Hee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [WoongLab](https://sites.google.com/view/woonglab/home).
 
 My research interests lie in signal processing for wireless communication systems, with a focus on sparsity-aware algorithms and optimization.
 
@@ -61,7 +61,7 @@ I am especially interested in understanding the fundamental limits of signal pro
 - **우수논문상**, 제4회 한국 인공지능 학술대회 학부논문경진대회 (*2023*)
 
 # 📖 Educations
-- *2025.03 - Present*, M.S. in Department of Electrical and Electronic Engineering, Doongguk University, Seoul, South Korea.
+- *2025.03 - Present*, M.S. in Department of Electrical and Electronic Engineering, Dongguk University, Seoul, South Korea.
 - *2020.03 - 2025.02*, B.S. in Department of Electro-Mechanical Engineering, Korea University, Sejong, South Korea.
 
 # 📄 Projects
