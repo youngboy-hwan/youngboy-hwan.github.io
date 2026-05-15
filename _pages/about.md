@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello :), I'm a M.S. student in Department of Electrical and Electronic Engineering at Donguk University under supervision of [Prof. Woong-Hee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [WoongLab](https://sites.google.com/view/woonglab/home).
+Hello :), I'm a M.S. student in Department of Electronics and Electrical Engineering at Donguk University under supervision of [Prof. Woong-Hee Lee](https://scholar.google.co.kr/citations?user=45Y7T0UAAAAJ&hl=ko&oi=ao) in the [WoongLab](https://sites.google.com/view/woonglab/home).
 
 My research interests lie in signal processing for wireless communication systems, with a focus on sparsity-aware algorithms and optimization.
 
